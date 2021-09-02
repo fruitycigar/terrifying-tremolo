@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# The Beginning
+
+In the beginning, there was a boy and the boy was lazy. Today, he's not that lazy and he's beginning to get around to practicing the fine art of hard work.
+That doesn't mean he's lost his taste for idleness, of course. It's simply been sidelined at the moment, that's all.
+
